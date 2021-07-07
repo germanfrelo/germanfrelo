@@ -12,7 +12,11 @@ My current **technical skills** are:
 ![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=f54d27)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=white&color=24292e)
 
-I'm currently building my own **website**, hoping it to be launched soon at **[germanfrelo.dev](https://germanfrelo.dev)**.
+I'm currently:
+
+* Building my own **website**, hoping it to be launched soon at **[germanfrelo.dev](https://germanfrelo.dev)**.
+
+* **Learning Git and GitHub.** Next: NPM, React.js, Node.js + Express.js, PostgreSQL.
 
 ## More about me
 
