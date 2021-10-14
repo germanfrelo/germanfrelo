@@ -10,7 +10,7 @@
 * ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=black&color=f0db4f) (ES5+)
 * ![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=f54d27)
 * ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=white&color=24292e)
-* I am currently learning **Eleventy (11ty)** and **Netlify** to manage and publish my personal website. It will be available soon at **[germanfrelo.dev](https://germanfrelo.dev)**.
+* I am currently learning **React.js**.
 
 🎓 I also have a **Bachelor of Science Degree in Electronic Engineering** at Universidad Politécnica de Cartagena (UPCT).
 
@@ -18,7 +18,7 @@
 
 💼 I am currently **looking for a job**, either remotely or in person in the provinces of Murcia or Alicante, Spain. I would love to contribute with my new knowledge surrounded by a good team to add value to.
 
-➕ Lastly, you can find me online on **[LinkedIn](https://linkedin.com/in/germanfrelo)**, **[CodePen](https://codepen.io/germanfrelo)** and **[Twitter](https://twitter.com/germanfrelo)** as **germanfrelo**.
+➕ Lastly, you can find me online at [germanfreixinos.com](https://germanfreixinos.com), or on **[LinkedIn](https://linkedin.com/in/germanfrelo)**, **[CodePen](https://codepen.io/germanfrelo)** and **[Twitter](https://twitter.com/germanfrelo)** as **germanfrelo**.
 
 ## My GitHub stats
 
