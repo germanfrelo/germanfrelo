@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=f54d27)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=white&color=24292e)
 
-I am currently learning **React.js**.
+I am currently learning [**Sass**](https://sass-lang.com) and [**CUBE CSS**](https://cube.fyi).
 
 🎓 I also have a **Bachelor of Science Degree in Electronic Engineering** at Universidad Politécnica de Cartagena (UPCT).
 
