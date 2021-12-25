@@ -18,7 +18,7 @@ I am currently learning **React.js**.
 
 🗣 I'm a native 🇪🇸 **Spanish** speaker, I'm level B1-B2 in 🇬🇧 **English**, and I have recently started learning 🇫🇷 **French**.
 
-💼 I am currently **looking for a job**, either remotely or in person in the provinces of Murcia or Alicante, Spain. I would love to contribute with my new knowledge surrounded by a good team to add value to.
+💼 I am currently **looking for a job** as front-end web developer, either remote, hybrid or in-person in any location.
 
 ➕ Lastly, you can find me online at [**germanfreixinos.com**](https://germanfreixinos.com), or on [**LinkedIn**](https://www.linkedin.com/in/germanfrelo), [**CodePen**](https://codepen.io/germanfrelo) and [**Twitter**](https://twitter.com/germanfrelo) as **germanfrelo**.
 
