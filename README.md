@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=f54d27)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=white&color=24292e)
 
-I am currently learning **React.js** at [**Full stack open 2021**](https://fullstackopen.com/en/).
+I am currently learning **React.js**.
 
 🎓 I also have a **Bachelor of Science Degree in Electronic Engineering** at Universidad Politécnica de Cartagena (UPCT).
 
