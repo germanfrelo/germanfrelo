@@ -6,13 +6,14 @@
 
 💼 I work as a junior software developer at **Capgemini España**.
 
-👨🏻‍💻 My **tech stack** is ![HTML](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=e44d26)
+👨🏻‍💻 My **tech stack** is
+![HTML](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=e44d26)
 ![CSS](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=white&color=264de4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=black&color=f0db4f)
 ![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=f54d27)
 ![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=white&color=24292e)
-
-Currently, I'm learning **React.js** ⚛️.
+![npm](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=cb0000).
+Currently, I'm learning ![React](https://img.shields.io/badge/react-informational?style=flat-square&logo=react&logoColor=black&color=61dafb).
 
 🎓 I also have a **Bachelor of Science Degree in Electronic Engineering** at Universidad Politécnica de Cartagena (UPCT).
 
