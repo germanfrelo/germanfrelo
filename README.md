@@ -4,7 +4,7 @@
 
 📍 I'm from **Murcia, Spain**.
 
-💼 I work as a junior software developer at **Capgemini España**.
+💼 I work as a junior front-end developer at **Vinissimus**.
 
 👨🏻‍💻 My **tech stack** is
 ![HTML](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=e44d26)
