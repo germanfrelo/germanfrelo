@@ -4,7 +4,7 @@
 
 📍 I'm from **Murcia, Spain**.
 
-💼 I work as a junior front-end developer at **Vinissimus**.
+💼 Currently working at [**Vinissimus**](https://github.com/vinissimus) as a **Junior Front-end Developer**.
 
 👨🏻‍💻 My **tech stack** is
 ![HTML](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=e44d26)
