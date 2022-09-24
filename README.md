@@ -23,6 +23,6 @@ Currently, I'm learning ![React](https://img.shields.io/badge/react-informationa
 
 ## My GitHub stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=germanfrelo&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true" />
+![Germán's GitHub stats](https://github-readme-stats.vercel.app/api?username=germanfrelo&include_all_commits=true&show_icons=true&theme=default)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germanfrelo&theme=<THEME_NAME>" />
+[![Germán's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=germanfrelo&layout=compact)](https://github.com/germanfrelo/github-readme-stats)
