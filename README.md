@@ -23,6 +23,4 @@ Currently, I'm learning ![React](https://img.shields.io/badge/react-informationa
 
 ## My GitHub stats
 
-![Germán's GitHub stats](https://github-readme-stats.vercel.app/api?username=germanfrelo&include_all_commits=true&show_icons=true&theme=default)
-
-[![Germán's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=germanfrelo&layout=compact)](https://github.com/germanfrelo/github-readme-stats)
+[![germanfrelo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=germanfrelo&layout=compact)](https://github.com/germanfrelo/github-readme-stats)
