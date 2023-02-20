@@ -1,26 +1,19 @@
-# Hi!
+Hi! I'm **Germán**, a **front-end** web developer with **1** year of experience developing websites and web apps (e-commerce). I live in Murcia (Spain).
 
-👋🏻 I'm **Germán Freixinós López**, a **front-end web developer**.
+I'm passionate about web technologies, specially about the visual part: layout, UI/UX and Design Systems.
 
-📍 I'm from **Murcia, Spain**.
+The technologies and tools in which I have experience are:
 
-💼 Currently working at [**Vinissimus**](https://github.com/vinissimus) as a **Junior Front-end Developer**.
+- Semantic HTML.
+- CSS, Sass (SCSS) and methodologies such as BEM and CUBE CSS.
+- JavaScript (ES6+), React.js and Next.js.
+- Cypress for E2E testing.
+- Version control: Git and GitHub.
 
-👨🏻‍💻 My **tech stack** is
-![HTML](https://img.shields.io/badge/HTML-informational?style=flat-square&logo=html5&logoColor=white&color=e44d26)
-![CSS](https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=white&color=264de4)
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=black&color=f0db4f)
-![Git](https://img.shields.io/badge/Git-informational?style=flat-square&logo=git&logoColor=white&color=f54d27)
-![GitHub](https://img.shields.io/badge/GitHub-informational?style=flat-square&logo=github&logoColor=white&color=24292e)
-![npm](https://img.shields.io/badge/npm-informational?style=flat-square&logo=npm&logoColor=white&color=cb0000).
-Currently, I'm learning ![React](https://img.shields.io/badge/react-informational?style=flat-square&logo=react&logoColor=black&color=61dafb).
+On my personal website [**germanfreixinos.com**](https://germanfreixinos.com) I have my portfolio, where I continually update the projects as I improve and acquire new knowledge. I'm also on [**CodePen**](https://codepen.io/germanfrelo) and [**LinkedIn**](https://www.linkedin.com/in/germanfrelo).
 
-🎓 I also have a **Bachelor of Science Degree in Electronic Engineering** at Universidad Politécnica de Cartagena (UPCT).
+I am always learning, and I frequently read the latest news about the industry and about my stack. I'm **currently** improving my knowledge of React thanks to the online course "**The Joy of React**", by Josh W Comeau. I will be linking the projects here and on my website. I will also start learning **Figma** for design soon.
 
-🗣 I'm a native 🇪🇸 **Spanish** speaker, I'm level B1-B2 in 🇬🇧 **English**, and I have recently started learning 🇫🇷 **French**.
+I also have a Bachelor of Science Degree in Electronic Engineering at Universidad Politécnica de Cartagena (UPCT).
 
-➕ Lastly, you can find me online at [**germanfreixinos.com**](https://germanfreixinos.com), or on [**LinkedIn**](https://www.linkedin.com/in/germanfrelo), [**CodePen**](https://codepen.io/germanfrelo) and [**Twitter**](https://twitter.com/germanfrelo) as **germanfrelo**.
-
-## My GitHub stats
-
-[![germanfrelo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=germanfrelo&layout=compact)](https://github.com/germanfrelo/github-readme-stats)
+I am a native **Spanish** speaker, I have a B2 level in **English**, and a basic level of **French**.
