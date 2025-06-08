@@ -1,13 +1,5 @@
-I'm **Germán**, a **front-end web developer** with **1 year** of experience developing **websites and web apps**. I'm passionate about web technologies, UI, UX and Design Systems. I live in **Murcia, Spain**.
+Hi! I'm **Germán Freixinós**, a **Front-end Web Developer** with **2 years of experience**.
 
-The **technologies and tools** I have experience with are:
+I specialize in **CSS, UI, UX, and design systems**.
 
-- Semantic **HTML**
-- **CSS** · **Sass (SCSS)** · CSS methodologies like **BEM** and **CUBE CSS**
-- **JavaScript** (ES6+) · **React.js**
-- **Cypress** (E2E testing)
-- **Git** · **GitHub** · **npm** · **Jira** · **Confluence** · **VS Code**
-
-My **portfolio** can be viewed on my personal website [**germanfrelo.dev**](https://germanfrelo.dev), as well as on [**my CodePen profile**](https://codepen.io/germanfrelo).
-
-I'm currently **improving my React skills** with the interactive course [The Joy of React](https://www.joyofreact.com). I also started **learning Figma** recently.
+You can see my **portfolio** and learn more about me on my website [**germanfrelo.dev**](https://germanfrelo.dev).
